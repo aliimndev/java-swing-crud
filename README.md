@@ -117,7 +117,7 @@ Sudah termasuk dalam `pom.xml` sebagai dependensi Maven:
      ```
    - Buat database dan tabel:
      ```sql
-     CREATE DATABASE karyawan_db; //LatihanNamaKamu
+     CREATE DATABASE karyawan_db; 
      USE karyawan_db;
 
      CREATE TABLE karyawan (
