@@ -217,14 +217,6 @@ crud-swing-karyawan/
 - **JDBC**: Database connectivity
 
 
-## Kontribusi
-
-1. Fork repository
-2. Buat branch fitur baru
-3. Commit perubahan
-4. Push ke branch
-5. Buat Pull Request
-
 ## Dukungan
 
 Jika ada pertanyaan atau masalah:
