@@ -19,7 +19,7 @@ Program ini dibuat untuk mengelola data [karyawan] menggunakan bahasa pemrograma
 Berikut adalah hasil running program dan struktur databasenya:
 
 ### 1. Tampilan perogram 
-<img width="1920" height="1080" alt="tugas-oop" src="https://github.com/user-attachments/assets/390ebc13-1dad-4618-9e05-f1ed404e6be1" />
+<img width="1920" height="1080" alt="tugas-oop" src="https://github.com/user-attachments/assets/" />
 
 
 
