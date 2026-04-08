@@ -15,12 +15,11 @@ Program ini dibuat untuk mengelola data [karyawan] menggunakan bahasa pemrograma
 * `database.sql` : File export database (terletak di root).
 * `README.md` : Dokumentasi tugas.
 
-## Hasil Screenshot<img width="1919" height="1199" alt="tugas-oop" src="https://github.com/user-attachments/assets/7720d4a8-e47d-4d4a-ba78-af8bc4bb4c52" />
 
 Berikut adalah hasil running program dan struktur databasenya:
 
 ### 1. Tampilan perogram 
-<img width="1920" height="1080" alt="tugas-oop" src="https://github.com/user-attachments/assets/" />
+## Hasil Screenshot<img width="1919" height="1199" alt="tugas-oop" src="https://github.com/user-attachments/assets/7720d4a8-e47d-4d4a-ba78-af8bc4bb4c52" />
 
 
 
